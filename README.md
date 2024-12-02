@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Vishwakarma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<!-- GIF Image Added -->
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/oCPwWHfJeyGQmtvx6" />
-
-<p align="left"></p>
-
 - 🌱 I’m currently learning **IIT (ICTSM)**  
 - 📫 How to reach me **av9323915@gmail.com**  
 - ⚡ Fun fact **I like Iron Man (Avenger)**
