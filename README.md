@@ -5,7 +5,7 @@
 - 📫 How to reach me **av9323915@gmail.com**  
 - ⚡ Fun fact **I like Iron Man (Avenger)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🅵🅾🅽🆃🆂 🆂🆃🆈🅻🅴:</h3>
 <p align="left">
   <a href="https://in.linkedin.com/in/amit-vishwakarma-b764352b8" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Vishwakarma LinkedIn" height="30" width="40" />
